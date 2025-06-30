@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/guIBHPqA8nT.gif)"  />
+  <img src="https://media.tenor.com/guIBHPqA8nTAAAAC/corepunk-cat.gif" height="150" />
 </div>
+
 
 ###
 
