@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Maram</h1>
-<h3 align="center">A passionate Software Engineer from Saudi Arabia, growing through hands-on experience</h3>
+<h3 align="center">A passionate Software Engineer , learning by doing and having fun along the way</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maram-ra&label=Profile%20views&color=0e75b6&style=flat" alt="maram-ra" />
