@@ -1,6 +1,7 @@
+<div align="center">
+  <img src="https://media1.tenor.com/m/Sb9UCZnDchMAAAAC/corepunk-corepunk-403-cat.gif" height="150" />
+</div>
 
-
-<div class="tenor-gif-embed" data-postid="5314058485531636243" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/corepunk-corepunk-403-cat-403-error-corepunk-gif-5314058485531636243">Corepunk Corepunk 403 Cat GIF</a>from <a href="https://tenor.com/search/corepunk-gifs">Corepunk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ###
