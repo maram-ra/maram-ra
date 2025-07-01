@@ -3,25 +3,6 @@
 </div>
 
 
-
-###
-
-<h1 align="center">hey there </h1>
-
-###
-
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left">🔭 I’m currently working on HBnB<br>🌱 I’m currently learning SQL<br>📫 Reach me at maramraddad33@gmail.com</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
